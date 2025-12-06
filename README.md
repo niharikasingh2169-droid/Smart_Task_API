@@ -54,10 +54,15 @@ The project follows a clean architecture pattern with three main layers:
    ```
 
 3. Set up environment variables:
-   Create a `.env` file in the root directory:
-   ```
+   Create a `.env` file in the root directory with the following required key-value pairs:
+   ```env
    OPENAI_API_KEY=your_openai_api_key_here
    ```
+   
+   **Required Environment Variables:**
+   - `OPENAI_API_KEY`: Your OpenAI API key for the priority scoring feature. You can obtain this from [OpenAI's website](https://platform.openai.com/api-keys).
+   
+   **Note:** Make sure the `.env` file is in the project root directory (same level as `requirements.txt`). The `.env` file should not be committed to version control.
 
 4. Run the application:
    ```bash
