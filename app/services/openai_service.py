@@ -73,9 +73,13 @@ Priority Guidelines Based on Days Left:
 - 41-60 days remaining: Priority 4 (low urgency)
 - 61+ days remaining: Priority 5 (lowest urgency)
 
-Consider the following factors:
-- Urgency based on due date (use the days left as primary factor)
-- Keywords in the title and description like Urgent, Important, Critical, etc.
+IMPORTANT: Give EQUAL WEIGHTAGE to the following two factors:
+1. Days until due date - Use the days left as a key factor in determining priority
+2. Keywords in title and description - Look for urgency indicators like "Urgent", "Important", "Critical", "ASAP", "Immediate", "High Priority", "Deadline", "Time-sensitive", etc.
+
+Consider both factors equally when assigning the priority score. If a task has many urgent keywords but is far from the due date, or if a task is due soon but has no urgent keywords, balance these factors to determine the final priority.
+
+Additional factors to consider (with less weight):
 - Importance of the task
 - Complexity and scope
 - Any time-sensitive elements
